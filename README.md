@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on C#
+- 🔭 I’m currently working on C#, Python
 - 🌱 I’m currently learning Cyber Security
 - ⚡ Fun fact: Chess player
 - 📫 How to reach me:
